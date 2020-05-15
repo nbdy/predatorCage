@@ -12,7 +12,7 @@ a casing for the Anycubic Predator
 - sandpaper/file(s)
 
 #### assembly:
-- 1: print the holders (i printed them with 32% infill and they work great) && [cut acrylic sheets](https://github.com/smthnspcl/predatorCage/blob/master/glass.png)
+- 1: print the holders (i printed them with 32% infill and they work great) && [cut acrylic sheets](https://github.com/smthnspcl/predatorCage/blob/master/glass.png) and attach sealing tape
 - 2: assemble
 - 3: ???
 - 4: profit
